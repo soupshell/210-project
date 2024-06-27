@@ -1,0 +1,116 @@
+{
+    "list name": "default",
+    "song list": [
+        {
+            "songName": "Tutorial 1",
+            "highestScore": 0,
+            "songLength": 12,
+            "songNotes": [
+                {
+                    "holdLength": 0,
+                    "column": 1,
+                    "start": 5,
+                    "played": false
+                },
+                {
+                    "holdLength": 0,
+                    "column": 2,
+                    "start": 6,
+                    "played": false
+                },
+                {
+                    "holdLength": 0,
+                    "column": 3,
+                    "start": 7,
+                    "played": false
+                },
+                {
+                    "holdLength": 0,
+                    "column": 4,
+                    "start": 8,
+                    "played": false
+                },
+                {
+                    "holdLength": 0,
+                    "column": 3,
+                    "start": 9,
+                    "played": false
+                },
+                {
+                    "holdLength": 0,
+                    "column": 2,
+                    "start": 10,
+                    "played": false
+                },
+                {
+                    "holdLength": 0,
+                    "column": 1,
+                    "start": 11,
+                    "played": false
+                }
+            ],
+            "noteNumber": 7,
+            "maxHits": 7
+        },
+        {
+            "songName": "Tutorial 2",
+            "highestScore": 0,
+            "songLength": 17,
+            "songNotes": [
+                {
+                    "holdLength": 3,
+                    "column": 3,
+                    "start": 4,
+                    "played": false
+                },
+                {
+                    "holdLength": 2,
+                    "column": 1,
+                    "start": 8,
+                    "played": false
+                },
+                {
+                    "holdLength": 0,
+                    "column": 1,
+                    "start": 12,
+                    "played": false
+                },
+                {
+                    "holdLength": 0,
+                    "column": 1,
+                    "start": 14,
+                    "played": false
+                },
+                {
+                    "holdLength": 0,
+                    "column": 2,
+                    "start": 16,
+                    "played": false
+                }
+            ],
+            "noteNumber": 5,
+            "maxHits": 10
+        },
+        {
+            "songName": "\"this song\"",
+            "highestScore": 0,
+            "songLength": 12,
+            "songNotes": [
+                {
+                    "holdLength": 0,
+                    "column": 1,
+                    "start": 3,
+                    "played": false
+                },
+                {
+                    "holdLength": 3,
+                    "column": 3,
+                    "start": 8,
+                    "played": false
+                }
+            ],
+            "noteNumber": 2,
+            "maxHits": 5
+        }
+    ]
+}
