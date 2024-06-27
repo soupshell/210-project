@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8099d898-7131-4bef-96d0-19de68c7c520" name="Changes" comment="citations" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WGV1GxRTfdduy5XlI8naROGEZF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Sarah/Downloads/events-WindowEventDemoProject",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sarah\IdeaProjects\project_l0t3a\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sarah\IdeaProjects\project_l0t3a" />
+      <recent name="C:\Users\Sarah\IdeaProjects\project_l0t3a\data" />
+      <recent name="C:\Users\Sarah\IdeaProjects\project_l0t3a\src\main\ui" />
+      <recent name="C:\Users\Sarah\IdeaProjects\project_l0t3a\lib\spec" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.Main" />
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NoteBlockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.NoteBlockTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SongTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.SongTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.SongTest" />
+        <item itemvalue="JUnit.NoteBlockTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8099d898-7131-4bef-96d0-19de68c7c520" name="Changes" comment="" />
+      <created>1696358688839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696358688839</updated>
+    </task>
+    <task id="LOCAL-00001" summary="edits to creation menu and documentation">
+      <option name="closed" value="true" />
+      <created>1697226721497</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697226721497</updated>
+    </task>
+    <task id="LOCAL-00002" summary="edits to creation menu and documentation">
+      <option name="closed" value="true" />
+      <created>1697232970395</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697232970395</updated>
+    </task>
+    <task id="LOCAL-00003" summary="more edits">
+      <option name="closed" value="true" />
+      <created>1697240263933</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697240263933</updated>
+    </task>
+    <task id="LOCAL-00004" summary="json added but not tested. new class repertoire fully tested. pain and suffering abounds.">
+      <option name="closed" value="true" />
+      <created>1698434128712</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698434128712</updated>
+    </task>
+    <task id="LOCAL-00005" summary="json tested">
+      <option name="closed" value="true" />
+      <created>1698442713817</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698442713817</updated>
+    </task>
+    <task id="LOCAL-00006" summary="json tested">
+      <option name="closed" value="true" />
+      <created>1698443331632</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698443331632</updated>
+    </task>
+    <task id="LOCAL-00007" summary="documentation update">
+      <option name="closed" value="true" />
+      <created>1698444538941</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698444538941</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update to tests">
+      <option name="closed" value="true" />
+      <created>1698445868868</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698445868868</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update to tests">
+      <option name="closed" value="true" />
+      <created>1698446564315</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698446564315</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update to tests">
+      <option name="closed" value="true" />
+      <created>1698446778858</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698446778858</updated>
+    </task>
+    <task id="LOCAL-00011" summary="citation">
+      <option name="closed" value="true" />
+      <created>1700863029790</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1700863029790</updated>
+    </task>
+    <task id="LOCAL-00012" summary="phase 4">
+      <option name="closed" value="true" />
+      <created>1701463661836</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1701463661836</updated>
+    </task>
+    <task id="LOCAL-00013" summary="checkstyle edit">
+      <option name="closed" value="true" />
+      <created>1701464142330</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1701464142330</updated>
+    </task>
+    <task id="LOCAL-00014" summary="phase 4 part 3 edit">
+      <option name="closed" value="true" />
+      <created>1701469811127</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1701469811127</updated>
+    </task>
+    <task id="LOCAL-00015" summary="citations">
+      <option name="closed" value="true" />
+      <created>1701470327798</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1701470327798</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="edits to creation menu and documentation" />
+    <MESSAGE value="edits to README and other documentation" />
+    <MESSAGE value="more edits" />
+    <MESSAGE value="json added but not tested. new class repertoire fully tested. pain and suffering abounds." />
+    <MESSAGE value="json tested" />
+    <MESSAGE value="documentation update" />
+    <MESSAGE value="update to tests" />
+    <MESSAGE value="citation" />
+    <MESSAGE value="phase 4" />
+    <MESSAGE value="checkstyle edit" />
+    <MESSAGE value="phase 4 part 3 edit" />
+    <MESSAGE value="citations" />
+    <option name="LAST_COMMIT_MESSAGE" value="citations" />
+  </component>
+</project>
